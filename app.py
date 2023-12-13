@@ -1,5 +1,3 @@
-!pip install streamlit
-
 import streamlit as st
 
 # Write your Streamlit app code directly here
